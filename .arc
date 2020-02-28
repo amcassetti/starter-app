@@ -7,6 +7,7 @@ flower-mub
 get /todos
 post /todos
 post /todos/delete
+get /
 
 @tables
 data
